@@ -1,0 +1,9 @@
+it\bootcamp\Constants.class
+it\bootcamp\repository\UserRepository.class
+it\bootcamp\model\UserResponse.class
+it\bootcamp\mapper\UserMapper.class
+it\bootcamp\model\UsersResponse.class
+it\bootcamp\model\User.class
+it\bootcamp\model\UsersResponse$UsersResponseBuilder.class
+it\bootcamp\model\User$UserBuilder.class
+it\bootcamp\model\UserResponse$UserResponseBuilder.class

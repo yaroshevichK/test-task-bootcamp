@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.8.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.liquibase.org/xml/ns/dbchangelog">
+    <changeSet id="create-test-data" author="Katerina">
+        <insert tableName="users">
+            <column name="first_name">Ivan</column>
+            <column name="last_name">Ivanov</column>
+            <column name="middle_name">Ivanovich</column>
+            <column name="email">ii@gmail.com</column>
+            <column name="role_id">1</column>
+        </insert>
+
+        <insert tableName="users">
+            <column name="first_name">Petr</column>
+            <column name="last_name">Petrov</column>
+            <column name="middle_name">Petrovich</column>
+            <column name="email">pp@gmail.com</column>
+            <column name="role_id">2</column>
+        </insert>
+
+        <insert tableName="users">
+            <column name="first_name">Sidor</column>
+            <column name="last_name">Sidorov</column>
+            <column name="middle_name">Aleksandrovich</column>
+            <column name="email">ss@gmail.com</column>
+            <column name="role_id">3</column>
+        </insert>
+
+        <insert tableName="users">
+            <column name="first_name">Viktor</column>
+            <column name="last_name">Viktorov</column>
+            <column name="middle_name">Ivanovich</column>
+            <column name="email">vv@gmail.com</column>
+            <column name="role_id">4</column>
+        </insert>
+    </changeSet>
+</databaseChangeLog>

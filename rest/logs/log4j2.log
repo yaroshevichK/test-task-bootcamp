@@ -1,0 +1,637 @@
+2023-07-31 16:34:15,669 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 16:34:15,895 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 16:34:16,453 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 16:34:16,517 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 5492 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 16:34:16,523 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 16:34:18,542 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 16:34:18,542 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 16:34:18,546 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 16:34:18,574 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.566 seconds (process running for 5.12)
+2023-07-31 16:34:18,876 INFO i.b.c.UserController [main] new user for adding in database UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) 
+2023-07-31 16:34:18,882 INFO i.b.c.UserController [main] find user by email user null 
+2023-07-31 16:34:18,882 INFO i.b.c.UserController [main] new user UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) saved in DB
+2023-07-31 16:35:06,621 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 16:35:06,804 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 16:35:07,223 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 16:35:07,271 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 12256 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 16:35:07,277 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 16:35:09,054 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 16:35:09,054 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 16:35:09,059 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 1 ms
+2023-07-31 16:35:09,082 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.192 seconds (process running for 3.979)
+2023-07-31 16:35:09,338 INFO i.b.c.UserController [main] new user for adding in database UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) 
+2023-07-31 16:35:09,342 INFO i.b.c.UserController [main] find user by email user null 
+2023-07-31 16:35:09,342 INFO i.b.c.UserController [main] new user UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) saved in DB
+2023-07-31 16:41:11,117 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 16:41:11,317 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 16:41:11,740 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 16:41:11,789 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 17688 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 16:41:11,794 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 16:41:13,615 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 16:41:13,615 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 16:41:13,618 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 1 ms
+2023-07-31 16:41:13,642 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.251 seconds (process running for 4.169)
+2023-07-31 16:41:13,931 INFO i.b.c.UserController [main] new user for adding in database UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) 
+2023-07-31 16:41:13,938 INFO i.b.c.UserController [main] find user by email user null 
+2023-07-31 16:41:13,938 INFO i.b.c.UserController [main] new user UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) saved in DB
+2023-07-31 16:42:12,769 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 16:42:12,942 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 16:42:13,330 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 16:42:13,380 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 16364 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 16:42:13,385 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 16:42:15,511 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 16:42:15,511 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 16:42:15,516 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 16:42:15,540 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.531 seconds (process running for 4.216)
+2023-07-31 16:42:15,812 INFO i.b.c.UserController [main] new user for adding in database UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) 
+2023-07-31 16:42:15,816 INFO i.b.c.UserController [main] find user by email user null 
+2023-07-31 16:42:15,817 INFO i.b.c.UserController [main] new user UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) saved in DB
+2023-07-31 16:43:07,598 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 16:43:07,802 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 16:43:08,283 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 16:43:08,347 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 5064 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 16:43:08,354 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 16:43:10,495 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 16:43:10,495 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 16:43:10,500 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 1 ms
+2023-07-31 16:43:10,531 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.625 seconds (process running for 5.495)
+2023-07-31 16:43:10,877 INFO i.b.c.UserController [main] new user for adding in database UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) 
+2023-07-31 16:43:10,886 INFO i.b.c.UserController [main] find user by email user null 
+2023-07-31 16:43:10,887 INFO i.b.c.UserController [main] new user UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) saved in DB
+2023-07-31 17:09:22,707 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 17:09:22,964 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 17:09:23,631 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 17:09:23,683 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 15416 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 17:09:23,688 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 17:09:26,088 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 17:09:26,088 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 17:09:26,093 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 17:09:26,122 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 3.024 seconds (process running for 5.347)
+2023-07-31 17:09:26,532 INFO i.b.c.UserController [main] new user for adding in database UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) 
+2023-07-31 17:09:26,541 INFO i.b.c.UserController [main] find user by email user null 
+2023-07-31 17:09:26,542 INFO i.b.c.UserController [main] new user UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) saved in DB
+2023-07-31 17:13:16,637 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 17:13:16,818 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 17:13:17,190 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 17:13:17,239 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 17384 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 17:13:17,243 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 17:13:19,040 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 17:13:19,041 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 17:13:19,044 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 1 ms
+2023-07-31 17:13:19,069 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.187 seconds (process running for 3.933)
+2023-07-31 17:13:19,362 INFO i.b.c.UserController [main] new user for adding in database UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) 
+2023-07-31 17:13:19,369 INFO i.b.c.UserController [main] find user by email user null 
+2023-07-31 17:13:19,369 INFO i.b.c.UserController [main] new user UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) saved in DB
+2023-07-31 17:21:26,093 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 17:21:26,280 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 17:21:26,721 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 17:21:26,766 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 5320 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 17:21:26,771 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 17:21:28,715 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 17:21:28,716 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 17:21:28,721 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 17:21:28,752 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.378 seconds (process running for 4.19)
+2023-07-31 17:21:38,800 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 17:21:38,968 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 17:21:39,371 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 17:21:39,427 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 12888 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 17:21:39,431 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 17:21:41,161 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 17:21:41,163 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 17:21:41,166 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 17:21:41,192 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.155 seconds (process running for 3.855)
+2023-07-31 17:21:41,495 INFO i.b.c.UserController [main] new user for adding in database UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) 
+2023-07-31 17:21:41,499 INFO i.b.c.UserController [main] find user by email user null 
+2023-07-31 17:21:41,502 INFO i.b.c.UserController [main] new user UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) saved in DB
+2023-07-31 17:30:11,832 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 17:30:12,006 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 17:30:12,411 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 17:30:12,464 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 14932 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 17:30:12,469 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 17:30:14,407 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 17:30:14,408 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 17:30:14,413 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 17:30:14,443 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.362 seconds (process running for 4.114)
+2023-07-31 17:30:14,530 WARN o.s.t.c.TestContextManager [main] Caught exception while invoking 'afterTestMethod' callback on TestExecutionListener [org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener] for test method [public void it.bootcamp.controller.UserControllerTest.getPageUsers() throws java.lang.Exception] and test instance [it.bootcamp.controller.UserControllerTest@7bb4ed71]
+org.mockito.exceptions.misusing.UnfinishedStubbingException: 
+Unfinished stubbing detected here:
+-> at it.bootcamp.controller.UserControllerTest.getPageUsers(UserControllerTest.java:87)
+
+E.g. thenReturn() may be missing.
+Examples of correct stubbing:
+    when(mock.isOk()).thenReturn(true);
+    when(mock.isOk()).thenThrow(exception);
+    doThrow(exception).when(mock).someVoidMethod();
+Hints:
+ 1. missing thenReturn()
+ 2. you are trying to stub a final method, which is not supported
+ 3. you are stubbing the behaviour of another mock inside before 'thenReturn' instruction is completed
+
+	at org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener.resetMocks(ResetMocksTestExecutionListener.java:84) ~[spring-boot-test-3.0.6.jar:3.0.6]
+	at org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener.resetMocks(ResetMocksTestExecutionListener.java:71) ~[spring-boot-test-3.0.6.jar:3.0.6]
+	at org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener.afterTestMethod(ResetMocksTestExecutionListener.java:65) ~[spring-boot-test-3.0.6.jar:3.0.6]
+	at org.springframework.test.context.TestContextManager.afterTestMethod(TestContextManager.java:440) ~[spring-test-6.0.8.jar:6.0.8]
+	at org.springframework.test.context.junit.jupiter.SpringExtension.afterEach(SpringExtension.java:206) ~[spring-test-6.0.8.jar:6.0.8]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeAfterEachCallbacks$12(TestMethodTestDescriptor.java:260) ~[junit-jupiter-engine-5.9.2.jar:5.9.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeAllAfterMethodsOrCallbacks$13(TestMethodTestDescriptor.java:276) ~[junit-jupiter-engine-5.9.2.jar:5.9.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeAllAfterMethodsOrCallbacks$14(TestMethodTestDescriptor.java:276) ~[junit-jupiter-engine-5.9.2.jar:5.9.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeAllAfterMethodsOrCallbacks(TestMethodTestDescriptor.java:275) ~[junit-jupiter-engine-5.9.2.jar:5.9.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeAfterEachCallbacks(TestMethodTestDescriptor.java:259) ~[junit-jupiter-engine-5.9.2.jar:5.9.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:144) ~[junit-jupiter-engine-5.9.2.jar:5.9.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:68) ~[junit-jupiter-engine-5.9.2.jar:5.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:147) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:127) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:90) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:55) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:102) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:54) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:71) ~[junit5-rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) ~[junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) ~[idea_rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) ~[junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:235) ~[junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:54) ~[junit-rt.jar:?]
+2023-07-31 17:32:10,446 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 17:32:10,715 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 17:32:11,223 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 17:32:11,291 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 4836 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 17:32:11,298 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 17:32:14,044 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 17:32:14,045 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 17:32:14,050 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 17:32:14,096 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 3.268 seconds (process running for 5.895)
+2023-07-31 17:32:14,218 WARN o.s.t.c.TestContextManager [main] Caught exception while invoking 'afterTestMethod' callback on TestExecutionListener [org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener] for test method [public void it.bootcamp.controller.UserControllerTest.getPageUsers() throws java.lang.Exception] and test instance [it.bootcamp.controller.UserControllerTest@19dac2d6]
+org.mockito.exceptions.misusing.UnfinishedStubbingException: 
+Unfinished stubbing detected here:
+-> at it.bootcamp.controller.UserControllerTest.getPageUsers(UserControllerTest.java:84)
+
+E.g. thenReturn() may be missing.
+Examples of correct stubbing:
+    when(mock.isOk()).thenReturn(true);
+    when(mock.isOk()).thenThrow(exception);
+    doThrow(exception).when(mock).someVoidMethod();
+Hints:
+ 1. missing thenReturn()
+ 2. you are trying to stub a final method, which is not supported
+ 3. you are stubbing the behaviour of another mock inside before 'thenReturn' instruction is completed
+
+	at org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener.resetMocks(ResetMocksTestExecutionListener.java:84) ~[spring-boot-test-3.0.6.jar:3.0.6]
+	at org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener.resetMocks(ResetMocksTestExecutionListener.java:71) ~[spring-boot-test-3.0.6.jar:3.0.6]
+	at org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener.afterTestMethod(ResetMocksTestExecutionListener.java:65) ~[spring-boot-test-3.0.6.jar:3.0.6]
+	at org.springframework.test.context.TestContextManager.afterTestMethod(TestContextManager.java:440) ~[spring-test-6.0.8.jar:6.0.8]
+	at org.springframework.test.context.junit.jupiter.SpringExtension.afterEach(SpringExtension.java:206) ~[spring-test-6.0.8.jar:6.0.8]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeAfterEachCallbacks$12(TestMethodTestDescriptor.java:260) ~[junit-jupiter-engine-5.9.2.jar:5.9.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeAllAfterMethodsOrCallbacks$13(TestMethodTestDescriptor.java:276) ~[junit-jupiter-engine-5.9.2.jar:5.9.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeAllAfterMethodsOrCallbacks$14(TestMethodTestDescriptor.java:276) ~[junit-jupiter-engine-5.9.2.jar:5.9.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeAllAfterMethodsOrCallbacks(TestMethodTestDescriptor.java:275) ~[junit-jupiter-engine-5.9.2.jar:5.9.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeAfterEachCallbacks(TestMethodTestDescriptor.java:259) ~[junit-jupiter-engine-5.9.2.jar:5.9.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:144) ~[junit-jupiter-engine-5.9.2.jar:5.9.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:68) ~[junit-jupiter-engine-5.9.2.jar:5.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:147) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:127) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:90) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:55) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:102) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:54) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:71) ~[junit5-rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) ~[junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) ~[idea_rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) ~[junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:235) ~[junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:54) ~[junit-rt.jar:?]
+2023-07-31 17:41:48,673 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 17:41:48,858 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 17:41:49,309 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 17:41:49,358 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 3264 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 17:41:49,365 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 17:41:51,275 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 17:41:51,276 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 17:41:51,279 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 1 ms
+2023-07-31 17:41:51,301 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.348 seconds (process running for 4.25)
+2023-07-31 17:41:51,358 WARN o.s.t.c.TestContextManager [main] Caught exception while invoking 'afterTestMethod' callback on TestExecutionListener [org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener] for test method [public void it.bootcamp.controller.UserControllerTest.getPageUsers() throws java.lang.Exception] and test instance [it.bootcamp.controller.UserControllerTest@19dac2d6]
+org.mockito.exceptions.misusing.UnfinishedStubbingException: 
+Unfinished stubbing detected here:
+-> at it.bootcamp.controller.UserControllerTest.getPageUsers(UserControllerTest.java:84)
+
+E.g. thenReturn() may be missing.
+Examples of correct stubbing:
+    when(mock.isOk()).thenReturn(true);
+    when(mock.isOk()).thenThrow(exception);
+    doThrow(exception).when(mock).someVoidMethod();
+Hints:
+ 1. missing thenReturn()
+ 2. you are trying to stub a final method, which is not supported
+ 3. you are stubbing the behaviour of another mock inside before 'thenReturn' instruction is completed
+
+	at org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener.resetMocks(ResetMocksTestExecutionListener.java:84) ~[spring-boot-test-3.0.6.jar:3.0.6]
+	at org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener.resetMocks(ResetMocksTestExecutionListener.java:71) ~[spring-boot-test-3.0.6.jar:3.0.6]
+	at org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener.afterTestMethod(ResetMocksTestExecutionListener.java:65) ~[spring-boot-test-3.0.6.jar:3.0.6]
+	at org.springframework.test.context.TestContextManager.afterTestMethod(TestContextManager.java:440) ~[spring-test-6.0.8.jar:6.0.8]
+	at org.springframework.test.context.junit.jupiter.SpringExtension.afterEach(SpringExtension.java:206) ~[spring-test-6.0.8.jar:6.0.8]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeAfterEachCallbacks$12(TestMethodTestDescriptor.java:260) ~[junit-jupiter-engine-5.9.2.jar:5.9.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeAllAfterMethodsOrCallbacks$13(TestMethodTestDescriptor.java:276) ~[junit-jupiter-engine-5.9.2.jar:5.9.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeAllAfterMethodsOrCallbacks$14(TestMethodTestDescriptor.java:276) ~[junit-jupiter-engine-5.9.2.jar:5.9.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeAllAfterMethodsOrCallbacks(TestMethodTestDescriptor.java:275) ~[junit-jupiter-engine-5.9.2.jar:5.9.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeAfterEachCallbacks(TestMethodTestDescriptor.java:259) ~[junit-jupiter-engine-5.9.2.jar:5.9.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:144) ~[junit-jupiter-engine-5.9.2.jar:5.9.2]
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:68) ~[junit-jupiter-engine-5.9.2.jar:5.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54) ~[junit-platform-engine-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:147) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:127) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:90) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:55) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:102) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:54) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53) ~[junit-platform-launcher-1.9.2.jar:1.9.2]
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:71) ~[junit5-rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) ~[junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) ~[idea_rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) ~[junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:235) ~[junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:54) ~[junit-rt.jar:?]
+2023-07-31 17:43:56,902 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 17:43:57,087 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 17:43:57,489 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 17:43:57,531 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 16796 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 17:43:57,535 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 17:43:59,411 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 17:43:59,411 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 17:43:59,414 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 1 ms
+2023-07-31 17:43:59,438 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.271 seconds (process running for 3.98)
+2023-07-31 17:46:30,575 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 17:46:30,746 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 17:46:31,143 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 17:46:31,199 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 15564 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 17:46:31,203 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 17:46:32,976 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 17:46:32,976 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 17:46:32,980 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 17:46:33,007 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.184 seconds (process running for 3.936)
+2023-07-31 17:46:33,143 INFO i.b.c.UserController [main] Список пользователей в базе данных пуст
+2023-07-31 17:50:17,307 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 17:50:17,489 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 17:50:17,887 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 17:50:17,938 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 3632 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 17:50:17,943 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 17:50:19,678 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 17:50:19,679 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 17:50:19,683 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 1 ms
+2023-07-31 17:50:19,706 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.136 seconds (process running for 3.886)
+2023-07-31 17:50:19,829 INFO i.b.c.UserController [main] Список пользователей в базе данных пуст
+2023-07-31 18:00:12,899 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 18:00:13,105 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 18:00:13,602 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 18:00:13,656 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 15764 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 18:00:13,661 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 18:00:15,767 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 18:00:15,767 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 18:00:15,771 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 1 ms
+2023-07-31 18:00:15,800 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.603 seconds (process running for 4.647)
+2023-07-31 18:02:36,677 INFO i.b.c.UserController [main] Список пользователей в базе данных пуст
+2023-07-31 18:03:08,076 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 18:03:08,285 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 18:03:08,795 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 18:03:08,846 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 20040 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 18:03:08,851 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 18:03:10,907 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 18:03:10,908 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 18:03:10,912 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 18:03:10,940 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.563 seconds (process running for 4.597)
+2023-07-31 18:04:42,766 INFO i.b.c.UserController [main] Список пользователей в базе данных пуст
+2023-07-31 18:06:06,216 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 18:06:06,386 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 18:06:06,787 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 18:06:06,828 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 15504 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 18:06:06,834 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 18:06:08,671 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 18:06:08,672 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 18:06:08,675 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 1 ms
+2023-07-31 18:06:08,700 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.234 seconds (process running for 3.987)
+2023-07-31 18:06:57,963 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 18:06:58,140 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 18:06:58,624 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 18:06:58,674 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 17976 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 18:06:58,680 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 18:07:00,743 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 18:07:00,743 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 18:07:00,749 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 3 ms
+2023-07-31 18:07:00,778 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.547 seconds (process running for 4.48)
+2023-07-31 18:10:31,241 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 18:10:31,443 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 18:10:31,931 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 18:10:31,977 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 20284 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 18:10:31,983 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 18:10:34,065 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 18:10:34,065 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 18:10:34,070 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 18:10:34,108 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.565 seconds (process running for 4.594)
+2023-07-31 18:11:06,749 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 18:11:06,947 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 18:11:07,441 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 18:11:07,493 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 12860 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 18:11:07,498 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 18:11:10,091 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 18:11:10,092 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 18:11:10,098 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 18:11:10,143 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 3.092 seconds (process running for 5.161)
+2023-07-31 18:15:20,397 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 18:15:20,605 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 18:15:21,028 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 18:15:21,075 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 10684 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 18:15:21,081 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 18:15:22,892 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 18:15:22,892 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 18:15:22,895 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 18:15:22,923 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.25 seconds (process running for 4.029)
+2023-07-31 18:16:42,440 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 18:16:42,614 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 18:16:43,030 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 18:16:43,079 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 9600 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 18:16:43,084 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 18:16:44,904 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 18:16:44,905 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 18:16:44,909 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 18:16:44,933 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.224 seconds (process running for 3.968)
+2023-07-31 18:17:36,649 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 18:17:36,819 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 18:17:37,268 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 18:17:37,326 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 19192 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 18:17:37,331 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 18:17:39,098 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 18:17:39,099 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 18:17:39,103 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 1 ms
+2023-07-31 18:17:39,126 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.22 seconds (process running for 3.945)
+2023-07-31 18:18:40,189 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 18:18:40,396 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 18:18:40,872 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 18:18:40,928 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 5140 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 18:18:40,934 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 18:18:42,988 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 18:18:42,988 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 18:18:42,993 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 18:18:43,019 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.523 seconds (process running for 4.594)
+2023-07-31 18:26:28,087 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 18:26:28,262 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 18:26:28,651 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 18:26:28,703 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 268 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 18:26:28,708 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 18:26:30,499 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 18:26:30,499 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 18:26:30,504 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 18:26:30,529 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.178 seconds (process running for 3.929)
+2023-07-31 18:27:29,075 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 18:27:29,238 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 18:27:29,665 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 18:27:29,729 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 8996 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 18:27:29,735 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 18:27:31,537 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 18:27:31,538 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 18:27:31,542 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 18:27:31,566 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.232 seconds (process running for 3.942)
+2023-07-31 18:30:12,976 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 18:30:13,146 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 18:30:13,553 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 18:30:13,595 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 16856 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 18:30:13,600 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 18:30:15,358 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 18:30:15,359 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 18:30:15,362 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 0 ms
+2023-07-31 18:30:15,387 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.163 seconds (process running for 3.838)
+2023-07-31 18:31:14,748 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 18:31:14,920 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 18:31:15,315 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 18:31:15,375 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 7920 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 18:31:15,379 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 18:31:17,213 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 18:31:17,213 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 18:31:17,217 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 18:31:17,240 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.248 seconds (process running for 3.975)
+2023-07-31 22:36:47,108 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 22:36:47,298 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 22:36:47,763 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 22:36:47,834 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 3336 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 22:36:47,842 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 22:36:50,132 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 22:36:50,133 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 22:36:50,138 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 22:36:50,163 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.778 seconds (process running for 4.839)
+2023-07-31 22:36:50,601 INFO i.b.c.UserController [main] new user for adding in database UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) 
+2023-07-31 22:36:50,609 INFO i.b.c.UserController [main] find user by email user null 
+2023-07-31 22:36:50,613 INFO i.b.c.UserController [main] new user UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) saved in DB
+2023-07-31 22:38:45,265 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 22:38:45,439 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 22:38:45,816 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 22:38:45,872 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 12604 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 22:38:45,878 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 22:38:47,686 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 22:38:47,687 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 22:38:47,691 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 22:38:47,721 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.204 seconds (process running for 4.074)
+2023-07-31 22:38:48,026 INFO i.b.c.UserController [main] new user for adding in database UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) 
+2023-07-31 22:38:48,029 INFO i.b.c.UserController [main] find user by email user null 
+2023-07-31 22:38:48,032 INFO i.b.c.UserController [main] new user UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) saved in DB
+2023-07-31 22:40:26,697 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 22:40:26,890 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 22:40:27,301 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 22:40:27,349 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 13680 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 22:40:27,354 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 22:40:29,225 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 22:40:29,225 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 22:40:29,230 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 22:40:29,256 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.292 seconds (process running for 4.322)
+2023-07-31 22:40:29,512 INFO i.b.c.UserController [main] new user for adding in database UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) 
+2023-07-31 22:40:29,516 INFO i.b.c.UserController [main] find user by email user null 
+2023-07-31 22:40:29,518 INFO i.b.c.UserController [main] new user UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) saved in DB
+2023-07-31 22:51:33,545 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 22:51:33,716 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 22:51:34,179 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 22:51:34,236 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 13228 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 22:51:34,244 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 22:51:36,305 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 22:51:36,306 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 22:51:36,311 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 3 ms
+2023-07-31 22:51:36,344 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.552 seconds (process running for 4.404)
+2023-07-31 22:53:52,376 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 22:53:52,571 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 22:53:52,955 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 22:53:53,013 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 10600 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 22:53:53,017 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 22:53:54,842 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 22:53:54,843 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 22:53:54,847 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 22:53:54,872 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.226 seconds (process running for 4.183)
+2023-07-31 22:56:12,336 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 22:56:12,502 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 22:56:12,885 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 22:56:12,945 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 17544 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 22:56:12,951 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 22:56:14,737 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 22:56:14,737 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 22:56:14,741 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 22:56:14,770 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.199 seconds (process running for 4.215)
+2023-07-31 22:56:41,533 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 22:56:41,736 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 22:56:42,118 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 22:56:42,173 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 13724 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 22:56:42,178 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 22:56:44,032 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 22:56:44,033 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 22:56:44,037 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 22:56:44,067 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 2.253 seconds (process running for 4.106)
+2023-07-31 22:56:44,517 INFO i.b.c.UserController [main] new user for adding in database UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) 
+2023-07-31 22:56:44,524 INFO i.b.c.UserController [main] find user by email user null 
+2023-07-31 22:56:44,525 INFO i.b.c.UserController [main] new user UserResponse(firstName=Will, lastName=Smith, middleName=Bill, email=wsb@gmail.com, role=Customer User) saved in DB
+2023-07-31 23:01:46,904 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 23:01:47,076 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 23:01:47,451 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 23:01:47,500 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 20416 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 23:01:47,504 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 23:01:53,663 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 23:01:53,664 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 23:01:53,668 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 2 ms
+2023-07-31 23:01:53,694 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 6.551 seconds (process running for 8.255)
+2023-07-31 23:06:54,485 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 23:06:54,664 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 23:06:55,064 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 23:06:55,118 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 14620 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 23:06:55,123 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 23:07:03,201 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 23:07:03,202 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 23:07:03,211 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 4 ms
+2023-07-31 23:07:03,274 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 8.526 seconds (process running for 10.502)
+2023-07-31 23:08:07,601 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 23:08:07,790 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 23:08:08,200 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 23:08:08,260 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 19948 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 23:08:08,266 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 23:08:11,907 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 23:08:11,908 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 23:08:11,916 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 4 ms
+2023-07-31 23:08:11,971 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 4.092 seconds (process running for 6.012)
+2023-07-31 23:10:08,910 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 23:10:09,118 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 23:10:09,540 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 23:10:09,665 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 20084 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 23:10:09,676 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 23:10:14,014 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 23:10:14,015 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 23:10:14,024 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 4 ms
+2023-07-31 23:10:14,087 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 4.873 seconds (process running for 7.518)
+2023-07-31 23:13:03,104 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [it.bootcamp.controller.UserControllerTest]: UserControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-07-31 23:13:03,334 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration it.bootcamp.RestApplication for test class it.bootcamp.controller.UserControllerTest
+2023-07-31 23:13:08,052 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.0.Final
+2023-07-31 23:13:08,386 INFO i.b.c.UserControllerTest [main] Starting UserControllerTest using Java 17.0.6 with PID 12644 (started by yasus in E:\IT Bootcamp\Test project\Bootcamp\rest)
+2023-07-31 23:13:08,394 INFO i.b.c.UserControllerTest [main] The following 1 profile is active: "test"
+2023-07-31 23:13:12,768 INFO o.s.b.t.m.w.SpringBootMockServletContext [main] Initializing Spring TestDispatcherServlet ''
+2023-07-31 23:13:12,769 INFO o.s.t.w.s.TestDispatcherServlet [main] Initializing Servlet ''
+2023-07-31 23:13:12,778 INFO o.s.t.w.s.TestDispatcherServlet [main] Completed initialization in 3 ms
+2023-07-31 23:13:12,841 INFO i.b.c.UserControllerTest [main] Started UserControllerTest in 8.556 seconds (process running for 11.722)
