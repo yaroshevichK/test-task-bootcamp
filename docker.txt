@@ -1,0 +1,4 @@
+docker build -t springbootmysql .
+docker compose up
+docker run --network springboot-mysql-net --name springboot-container -p 8081:8080 -d springbootmysql
+docker ps
