@@ -55,7 +55,7 @@ public class UserController {
                     defaultValue = DEFAULT_PAGE_NUMBER, required = false) int pageNumber
     ) {
         Page<UserList> pageUsers = userService.getAllUsers(pageNumber - 1);
-        if (pageNumber - 1 > pageUsers.getTotalPages()) {
+        if (pageNumber > pageUsers.getTotalPages()) {
             throw new NotCorrectPageException(
                     String.format(MESSAGE_BAD_PAGE_NUMBER, pageUsers.getTotalPages()));
         }
